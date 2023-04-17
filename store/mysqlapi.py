@@ -1,7 +1,7 @@
 import requests
 
 # set the API endpoint URL
-url = "http://127.0.0.1:8080/"
+url = "http://54.172.198.79:3000/"
 
 # set the request headers
 headers = {
